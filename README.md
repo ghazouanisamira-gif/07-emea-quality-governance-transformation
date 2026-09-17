@@ -26,7 +26,7 @@ The objective was to build a consistent quality and performance framework from t
 - Continuous improvement and root-cause analysis
 - Governance, reporting and action tracking
 
-The operating model included a dedicated team of **12 collaborators**, dedicated management and an allocated budget.
+The operating model included a dedicated **Quality & Training structure covering audit and training activities, with 12 collaborators and dedicated management**, supported by an allocated budget.
 
 ---
 
