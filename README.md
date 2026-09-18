@@ -141,7 +141,7 @@ The learning loop was:
 
 ## 5. Digital Tools & Deployment
 
-The mandate included contribution to comparative analysis, selection and deployment around several operational quality, customer-service and analytical tools, including **EvaluAgent, Diabolocom, Zendesk, Tableau and Qlik**.
+The mandate included contribution to comparative analysis, selection and deployment around several operational quality, customer-service and analytical tools, including **EvaluAgent, Diabolocom, Zendesk, Tableau, Qlik and Zoho**.
 
 ### IT / Business Interface
 
