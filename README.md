@@ -262,27 +262,6 @@ The repository focuses on the **governance architecture, delivery approach, deci
 
 ## People Development & Manager Enablement
 
-A significant part of the governance model was the ability to convert quality and operational findings into **capability development and practical manager support**.
+People-development practices were an important enabling mechanism within the mandate. The reusable framework, assessment tools, coaching methods and manager-enablement templates are maintained separately in [People Development & Manager Enablement](https://github.com/ghazouanisamira-gif/10-people-development-manager-enablement).
 
-The people-development approach included:
-
-- competency / level assessment;
-- training-needs analysis;
-- targeted corrective and developmental training;
-- coaching and structured feedback;
-- debrief sheets and follow-up records;
-- calibration and knowledge checks;
-- e-learning, micro-learning and MOOC-style learning structures;
-- practical job aids, checklists and SOPs;
-- manager onboarding and role enablement;
-- management routines and practical To-Do Lists;
-- team workshops, knowledge sharing and team-building activities;
-- reassessment and reinforcement of learning.
-
-The operating principle was:
-
-**Quality Finding → Capability Diagnosis → Intervention → Application → Feedback → Follow-up → Verification**
-
-This approach also recognized that a performance gap may originate in the process, tool, information, workload or governance system rather than in individual capability. Training was therefore selected only when supported by the diagnosis.
-
-The objective was to strengthen **consistency, autonomy, management effectiveness and sustainable performance** across the operating environment.
+This case focuses on the **EMEA governance, multi-provider coordination, quality transformation, technology interface and documented outcomes**.
