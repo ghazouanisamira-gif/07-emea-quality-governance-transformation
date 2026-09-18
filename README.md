@@ -10,7 +10,7 @@ The mandate covered **France, Italy, Spain, Germany and the United Kingdom** and
 
 The work combined **quality governance, PMO-style coordination, stakeholder management, capability development, digital-tool deployment, performance management and continuous improvement**.
 
-> **Confidentiality:** Client identity, contractual details, proprietary procedures, detailed budgets, internal datasets, sensitive operating information and identifying technology/provider details are intentionally excluded.
+> **Confidentiality:** Client identity, contractual details, proprietary procedures, detailed budgets, internal datasets and sensitive operating information are intentionally excluded. Selected technology/tool names are retained because they document the actual digital environment and demonstrate hands-on business-side coordination, deployment and operational use; they do not identify the client on their own.
 
 ## Mandate Scope
 
@@ -141,7 +141,7 @@ The learning loop was:
 
 ## 5. Digital Tools & Deployment
 
-The mandate included contribution to comparative analysis, selection and deployment around several **operational quality, customer-service and analytical technology categories**.
+The mandate included contribution to comparative analysis, selection and deployment around several operational quality, customer-service and analytical tools, including **EvaluAgent, Diabolocom, Zendesk, Tableau and Qlik**.
 
 ### IT / Business Interface
 
@@ -241,10 +241,9 @@ This public case intentionally excludes:
 - individual performance data;
 - proprietary procedures;
 - confidential tool configurations;
-- identifying technology/provider names;
 - sensitive internal documentation.
 
-The repository focuses on the **governance architecture, delivery approach, decision mechanisms and transferable transformation capabilities**.
+The repository focuses on the **governance architecture, delivery approach, decision mechanisms, technology coordination and transferable transformation capabilities**.
 
 ## Skills Demonstrated
 
