@@ -259,3 +259,30 @@ The repository focuses on the **governance architecture, delivery approach, deci
 - [Quality & Governance Framework](https://github.com/ghazouanisamira-gif/02-quality-governance-framework) — reusable quality governance and control framework.
 - [AI Transformation & Governance](https://github.com/ghazouanisamira-gif/09-ai-transformation-governance) — separate 2024–2026 AI transformation case.
 - [Project Management Toolkit](https://github.com/ghazouanisamira-gif/01-project-management-toolkit) — reusable PMO and governance tools.
+
+## People Development & Manager Enablement
+
+A significant part of the governance model was the ability to convert quality and operational findings into **capability development and practical manager support**.
+
+The people-development approach included:
+
+- competency / level assessment;
+- training-needs analysis;
+- targeted corrective and developmental training;
+- coaching and structured feedback;
+- debrief sheets and follow-up records;
+- calibration and knowledge checks;
+- e-learning, micro-learning and MOOC-style learning structures;
+- practical job aids, checklists and SOPs;
+- manager onboarding and role enablement;
+- management routines and practical To-Do Lists;
+- team workshops, knowledge sharing and team-building activities;
+- reassessment and reinforcement of learning.
+
+The operating principle was:
+
+**Quality Finding → Capability Diagnosis → Intervention → Application → Feedback → Follow-up → Verification**
+
+This approach also recognized that a performance gap may originate in the process, tool, information, workload or governance system rather than in individual capability. Training was therefore selected only when supported by the diagnosis.
+
+The objective was to strengthen **consistency, autonomy, management effectiveness and sustainable performance** across the operating environment.
