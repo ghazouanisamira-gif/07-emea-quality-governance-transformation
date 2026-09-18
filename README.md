@@ -259,3 +259,9 @@ The repository focuses on the **governance architecture, delivery approach, deci
 
 **Author:** Samira Ghazouani  
 **PMP® | Lean Six Sigma Black Belt | Master QSE/QHSE Management**
+
+## Related Portfolio Evidence
+
+- [Quality & Governance Framework](https://github.com/ghazouanisamira-gif/02-quality-governance-framework) — reusable quality governance and control framework.
+- [AI Transformation & Governance](https://github.com/ghazouanisamira-gif/09-ai-transformation-governance) — separate 2024–2026 AI transformation case.
+- [Project Management Toolkit](https://github.com/ghazouanisamira-gif/01-project-management-toolkit) — reusable PMO and governance tools.
