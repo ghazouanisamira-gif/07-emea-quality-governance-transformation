@@ -1,34 +1,50 @@
 # 03 — Stakeholder Coordination
 
-## Cross-Functional Coordination
+## Coordination Challenge
 
-Coordination extended across the complete project ecosystem rather than being limited to a single function.
+The mandate required coordination across **multiple organizations, countries and functions without direct hierarchical authority over all participants**.
 
-### Main stakeholder groups
+This made stakeholder management a core delivery capability.
 
-- Client / business stakeholders
-- Internal management
+## Stakeholder Ecosystem
+
+- Business / account stakeholders
 - Operations
-- Quality teams
-- Training teams
+- Quality
+- Training
 - External service providers
 - In-house teams
-- IT / technology stakeholders
-- Other project stakeholders
+- IT / Technology
+- Project stakeholders
+- Management
 
 ## Coordination Responsibilities
 
-- Aligning objectives and expectations
-- Consolidating operational and quality feedback
-- Tracking actions and decisions
-- Escalating blockers
-- Coordinating testing and deployment activities
-- Communicating quality findings
-- Following up improvement plans
-- Connecting business needs with tool and reporting requirements
+The role included:
 
-## Delivery Principle
+- aligning stakeholders around quality objectives;
+- consolidating feedback from markets and providers;
+- communicating quality findings;
+- coordinating action plans;
+- tracking decisions and dependencies;
+- escalating blockers;
+- coordinating tool testing and deployment;
+- translating operational requirements for IT;
+- following up corrective actions;
+- ensuring information circulated across the ecosystem.
 
-**No direct authority does not mean no accountability.**
+## Influence Without Authority
 
-The governance approach relied on structured coordination, transparent information, clear action ownership and regular follow-up.
+The coordination model relied on:
+
+**Evidence + Communication + Alignment + Follow-up + Accountability**
+
+Rather than relying on hierarchy, delivery was supported through clear expectations, structured information, action ownership and escalation mechanisms.
+
+## Practical Coordination Loop
+
+**Identify → Align → Assign → Test / Act → Follow Up → Escalate if Needed → Close → Learn**
+
+## Project Management Insight
+
+In a multi-provider environment, stakeholder management is not a supporting activity. It is part of the delivery mechanism itself.
