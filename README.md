@@ -10,7 +10,7 @@ The mandate covered **France, Italy, Spain, Germany and the United Kingdom** and
 
 The work combined **quality governance, PMO-style coordination, stakeholder management, capability development, digital-tool deployment, performance management and continuous improvement**.
 
-> **Confidentiality:** Client identity, contractual details, proprietary procedures, detailed budgets, internal datasets and sensitive operating information are intentionally excluded.
+> **Confidentiality:** Client identity, contractual details, proprietary procedures, detailed budgets, internal datasets, sensitive operating information and identifying technology/provider details are intentionally excluded.
 
 ## Mandate Scope
 
@@ -141,13 +141,7 @@ The learning loop was:
 
 ## 5. Digital Tools & Deployment
 
-The mandate included contribution to comparative analysis, selection and deployment around several operational and analytical tools, including:
-
-- EvaluAgent
-- Diabolocom
-- Zendesk
-- Tableau
-- Qlik
+The mandate included contribution to comparative analysis, selection and deployment around several **operational quality, customer-service and analytical technology categories**.
 
 ### IT / Business Interface
 
@@ -167,7 +161,7 @@ During intensive deployment phases, coordination followed an iterative rhythm:
 
 **Test → Identify → Report → Correct → Retest**
 
-Qlik tracking sheets and reporting evolved based on quality and operational feedback.
+Tracking and reporting evolved based on quality and operational feedback.
 
 This demonstrated **business-side digital transformation coordination**, rather than software development.
 
@@ -247,6 +241,7 @@ This public case intentionally excludes:
 - individual performance data;
 - proprietary procedures;
 - confidential tool configurations;
+- identifying technology/provider names;
 - sensitive internal documentation.
 
 The repository focuses on the **governance architecture, delivery approach, decision mechanisms and transferable transformation capabilities**.
