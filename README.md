@@ -6,7 +6,7 @@
 
 A professional case study covering an **embedded EMEA mandate to build and pilot a quality and governance system from the ground up** for a major international account.
 
-The mandate covered **France, Italy, Spain, Germany and the United Kingdom** and coordinated a complex ecosystem involving multiple external providers, in-house teams, Quality, Training, Operations, Technology / IT and business stakeholders.
+The mandate covered **multiple EMEA markets** and coordinated a complex ecosystem involving multiple external providers, in-house teams, Quality, Training, Operations, Technology / IT and business stakeholders.
 
 The work combined **quality governance, PMO-style coordination, stakeholder management, capability development, digital-tool deployment, performance management and continuous improvement**.
 
@@ -28,7 +28,7 @@ The mandate required:
 - managing testing, data-quality issues and reporting evolution;
 - maintaining performance visibility and continuous improvement.
 
-The operating model included a dedicated **Quality & Training structure with 12 collaborators, dedicated management and an allocated budget**.
+The operating model included a dedicated Quality & Training structure with defined ownership, management routines and allocated resources.
 
 ## Transformation Architecture
 
@@ -141,7 +141,7 @@ The learning loop was:
 
 ## 5. Digital Tools & Deployment
 
-The mandate included contribution to comparative analysis, selection and deployment around several operational quality, customer-service and analytical tools, including **EvaluAgent, Diabolocom, Zendesk, Tableau, Qlik and Zoho**.
+The mandate included contribution to comparative analysis, selection and deployment around **operational quality, customer-service, reporting and analytical tool categories**.
 
 ### IT / Business Interface
 
@@ -200,6 +200,14 @@ Selected documented outcomes:
 | Inter-rater consistency | **>90%** |
 
 These results should be understood as outcomes of an integrated system combining governance, monitoring, feedback, training, root-cause analysis, stakeholder coordination and continuous improvement.
+
+### KPI Definitions
+
+- **Quality Score:** aggregate quality evaluation score based on the defined evaluation framework.
+- **Non-conformities:** monitored quality deviations / errors tracked against the applicable quality criteria.
+- **CSAT:** customer satisfaction score measured through the applicable customer-feedback mechanism.
+- **Onboarding completion:** share of the target population completing the defined onboarding path.
+- **Inter-rater consistency:** agreement observed through calibration exercises involving relevant production, client, quality and training stakeholders.
 
 Detailed datasets and calculation methodologies remain confidential.
 
