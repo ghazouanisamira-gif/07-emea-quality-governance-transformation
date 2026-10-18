@@ -42,4 +42,15 @@ The role therefore relied on:
 
 ## Team Scope
 
-The mandate operated with a dedicated team of **12 collaborators**, dedicated management and an allocated budget.
+The mandate operated with a dedicated team of **12 quality and training officers**, dedicated management and an allocated budget.
+
+## Operational Evolution of the Mandate
+
+The scope of the operation grew in successive phases:
+
+1. **B2C** — the starting point.
+2. **B2B added** to the scope.
+3. **B2B ramp-up** — the team scaled up.
+4. **Aftersales added.**
+5. **B2C and B2B merged** into a single **One Presales** organization.
+

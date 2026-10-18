@@ -198,6 +198,8 @@ Selected documented outcomes:
 | CSAT | **+15 pts** |
 | Onboarding completion | **+40%** |
 | Inter-rater consistency | **>90%** |
+| Cross-sell coaching programme (6 months, growing team): products per basket | **1.7 → 3 (+76%)** |
+| Cross-sell coaching programme: average basket | **€250 → €350 (+40%)** |
 
 These results should be understood as outcomes of an integrated system combining governance, monitoring, feedback, training, root-cause analysis, stakeholder coordination and continuous improvement.
 
@@ -207,6 +209,7 @@ These results should be understood as outcomes of an integrated system combining
 - **Non-conformities:** monitored quality deviations / errors tracked against the applicable quality criteria.
 - **CSAT:** customer satisfaction score measured through the applicable customer-feedback mechanism.
 - **Onboarding completion:** share of the target population completing the defined onboarding path.
+- **Cross-sell indicators:** products per basket = average number of products per order; average basket = average order value; measured before and after a 6-month coaching programme for a growing team (see [case-study/09](case-study/09-cross-sell-coaching-programme.md)).
 - **Inter-rater consistency:** agreement observed through calibration exercises involving relevant production, client, quality and training stakeholders.
 
 Detailed datasets and calculation methodologies remain confidential.
