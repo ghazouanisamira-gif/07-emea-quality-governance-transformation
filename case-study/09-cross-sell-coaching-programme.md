@@ -2,11 +2,13 @@
 
 ## Overview
 
-Within the EMEA mandate, a **6-month, performance-oriented coaching programme** was designed and deployed for a team that grew significantly as the operation scaled serving an international e-commerce client, with the objective of increasing cross-selling.
+Within the EMEA mandate, a **6-month, performance-oriented coaching programme** was designed and deployed, as a **first improvement exercise on business value (BV) and average basket for the B2B Presales activity** of an international e-commerce client, with the objective of increasing cross-selling. The team grew significantly as the operation scaled.
+
+Cross-selling then became an **integrated, ongoing routine**, worked on continuously as production objectives evolve; the six months described here are the first measured phase.
 
 ## Scope
 
-The cross-sell coaching programme started with a small team and grew gradually as the operation scaled, with additional agents available as B2C reinforcement during peak flows.
+The first exercise targeted **B2B Presales**. It started with a small team and grew gradually as the operation scaled, with additional agents available as B2C reinforcement during peak flows.
 
 It was subsequently **extended to B2C to increase the average basket**. The channel mix differed by activity: **B2C was 100% inbound**, while **B2B was about 80% outbound and 20% inbound**. After the move to One Presales, agents became **multi-skilled** and handled outbound, inbound, email and chat.
 

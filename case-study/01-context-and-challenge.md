@@ -4,7 +4,7 @@
 
 A major international e-commerce client operated across several European markets and service environments.
 
-Between **2020 and 2023**, the mandate focused on building and coordinating a common quality and governance approach across:
+The author was involved with this account from its launch in **January 2020** until **January 2026**. Between **2020 and 2023**, the formal mandate focused on building and coordinating a common quality and governance approach across:
 
 - France
 - Italy

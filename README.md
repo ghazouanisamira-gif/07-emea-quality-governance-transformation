@@ -1,6 +1,6 @@
 # EMEA Quality Governance & Multi-Provider Transformation
 
-**Anonymized EMEA Account | 2020–2023**
+**Anonymized EMEA Account | Mandate 2020–2023 | Involved with the account from January 2020 to January 2026**
 
 ## Executive Summary
 
