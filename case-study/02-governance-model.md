@@ -42,7 +42,7 @@ The role therefore relied on:
 
 ## Team Scope
 
-The mandate operated with a dedicated team of **12 quality and training officers (CQF) plus a manager** on the EMEA mandate, with about 5 on other internal projects and up to 15+ depending on each project forecast, dedicated management and an allocated budget.
+The mandate operated with a dedicated team of **12 quality and training officers (CQF) plus a manager**, within a pool of about 15 officers depending on forecast. Officers are cross-trained on all projects and reassigned to reinforce according to forecast. The mandate had dedicated management and an allocated budget.
 
 ## Operational Evolution of the Mandate
 
